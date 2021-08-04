@@ -19,7 +19,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<a href="https://github.com/WireROP/github-readme-activity-graph"><img alt="WireROP" src="https://activity-graph.herokuapp.com/graph?username=WireROPbg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/WireROP/github-readme-activity-graph"><img alt="WireROP" src="https://activity-graph.herokuapp.com/graph?username=Lee Changbg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/> 
 
  ##

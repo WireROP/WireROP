@@ -1,12 +1,12 @@
 **WireROP**
 
  <div>
-  <a href="https://github.com/WireROP">![jj](https://github.com/WireROP/WireROP/assets/54511762/64385b20-f094-464c-b81a-fdf66a55a538)
-
+  <a href="https://github.com/WireROP">
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WireROP&show_icons=false&theme=blue&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WireROP&layout=compact&langs_count=7&theme=blue"/>
-</div>
+</div>![jj](https://github.com/WireROP/WireROP/assets/54511762/37f5da39-59d0-4595-974c-392bdc48b570)
+
 
 <div style="display: inline_block"><br>
  
